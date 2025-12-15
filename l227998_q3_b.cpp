@@ -4,8 +4,8 @@
 //{
 //	int units = 0;
 //	const float original_price = 99;
-//	cout << "Welcome to our new Software Company\n";
-//	cout << "How many units did you sell?" << endl;
+//	cout << "Welcome to our brand new Mart!\n";
+//	cout << "How many units did you buy?" << endl;
 //	cin >> units;
 //	if (units > 0) {
 //		if (units < 10) {
@@ -44,4 +44,5 @@
 //		cout << "Invalid Input!";
 //	}
 //	
+
 //}
